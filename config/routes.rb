@@ -1,4 +1,4 @@
 RailsBlog::Application.routes.draw do
   resources :posts
-  resources :users
+  #resources :users
 end
